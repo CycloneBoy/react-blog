@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import CommentApp from '../component/Comment/CommentApp'
-import Clock from '../component/Clock/Clock'
-import Card from '../component/Card/Card'
+import CommentApp from '../components/Comment/CommentApp'
+import Clock from '../components/Clock/Clock'
+import Card from '../components/Card/Card'
 
 class Main extends Component {
     constructor () {
